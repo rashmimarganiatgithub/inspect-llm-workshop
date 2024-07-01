@@ -16,3 +16,5 @@ This repository includes the slides and code for the workshop on Inspect given a
 | [slides](slides/)         | Source code and PDF version of workshop slides                                                                                               |
 
 To ensure that you can run the example code in this repo, please install the dependencies using the [requirements.txt](requirements.txt) file in the root directory.
+
+Notes:  https://christianjmills.com/series/notes/mastering-llms-course-notes.html
